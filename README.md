@@ -7,19 +7,34 @@
 
 <h3 align="center">A computer programming and electronic technology student.</h3>
 
-- 🔭 Currently working on **scent-tracking robot technology** and an **smart home** project.
-- 🌱 Learning the avionics rocket systems.
+- 🔭 Projeler (aşağıda): ölçüm ve gömülü sistemler, web uygulamaları, görsel üretim araçları.
+- 🌱 Aviyonik ve donanım tasarımı üzerine çalışıyor.
 - 📫 Reach me at: [sametcannoruc@gmail.com](mailto:sametcannoruc@gmail.com)
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="#" target="_blank">
+  <a href="https://linkedin.com/in/samet-can-oruç-74aa1336a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
 </p>
+
+### 📂 Projeler
+
+| Proje | Ne yapar | Teknoloji | Durum |
+|---|---|---|---|
+| **Sofra** | Tarif seçip malzemelerin market fiyatını görüp sepet oluşturan web uygulaması | Java 21, Spring Boot, MySQL | Yerelde çalışıyor (özel depo) |
+| **NILM / harmonik imza** | Tek akım ölçüm noktasından harmonik imza çıkaran ölçüm prototipi | ESP32-S3, C++, Python | Arşiv prototip (özel depo) |
+| **Tab → piyano videosu** | Gitar tab ve nota görüntüsünden düşen nota piyano videosu üreten boru hattı | Python, PIL, MIDI | Çalışıyor, ses adımı planlı (özel depo) |
+
+Depolar özel tutulmaktadır; kısa tanıtımlar ve örnek çıktılar bu sayfada.
+
+### 🇬🇧 Projects (English)
+
+| Project | What it does | Status |
+|---|---|---|
+| **Sofra** | Recipe → market price → cart web app (Java 21, Spring Boot, MySQL) | Runs locally |
+| **NILM / harmonic signature** | Current-sensing prototype that extracts harmonic signatures (ESP32-S3) | Archived prototype |
+| **Tab → piano video** | Guitar tab/notation to falling-note piano video (Python, PIL, MIDI) | Works; audio step planned |
 
 ### 💻 Languages and Tools:
 <p align="left">
